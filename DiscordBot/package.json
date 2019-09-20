@@ -1,0 +1,16 @@
+{
+    "name": "RowanCapstone",
+    "version": "1.0.0",
+    "description": "Rowan Capstone Project",
+    "main": "bot.js",
+    "author": [
+        "Kevin Kaiser",
+        "Carl Keonig",
+        "Robert Leslie",
+        "Smit Patel"
+    ],
+    "dependencies": {
+        "discord.io": "https://github.com/woor/discord.io/tarball/gateway_v6",
+        "winston": "^3.2.1"
+    }
+}
